@@ -52,6 +52,7 @@ margin-bottom: 0;}
         .menu-bar ul li:hover .sub-menu-1 ul li a:hover {color: #b2ff00;}
 
 footer {background: hsla(360, 80%, 0%, 0.9);
+	margin: 30px;
         font: normal normal 10px sans-serif;}
 
 main {background-color: black;
