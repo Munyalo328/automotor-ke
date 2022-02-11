@@ -25,29 +25,29 @@
 
 		.menu-bar ul li {width: 100px;
 		                 margin: 10px;
-		                 padding: 15px;}
+		                 padding: 5px;}
 
 		.menu-bar ul li a {text-decoration: none;
 		                 color: white;}
 
-		.active, .menu-bar ul li:hover {background: gray;
+		.active, .menu-bar ul li:hover {background: hsla(121, 70%, 30%, 0.9);
 		                                border-radius: 3px;}
 		.sub-menu-1 {display: none;}
 
 		.menu-bar ul li:hover .sub-menu-1 {display: block;
 		                                   position: absolute;
-		                                   background: gray;
+		                                   background: hsla(320, 50%, 10%, 0.9);
 		                                    margin-top: 5px;
 		                                    margin-left: 0px;}
 
         .menu-bar ul li:hover .sub-menu-1 ul {display: block;
                                               margin: 15px;}
 
-        .menu-bar ul li:hover .sub-menu-1 ul li {width: 100px;
+        .menu-bar ul li:hover .sub-menu-1 ul li {width: 60px;
                                                  padding: 0px;
                                                  border-bottom: none;
                                                  background: transparent;
-                                                 border-radius: 0;
+                                                 border-radius: 30px;
                                                  text-align: left;}
 
         .menu-bar ul li:hover .sub-menu-1 ul li :last-child {border-bottom: none;} 
