@@ -55,9 +55,8 @@
         .menu-bar ul li:hover .sub-menu-1 ul li a:hover {color: #b2ff00;}
 
 footer {background: hsla(360, 80%, 0%, 0.9);
-	     padding: 15px;
-			margin-top: 30px;
-			margin-bottom: 30px;
+	     padding: 20px;
+	margin: 0;
         font: normal normal 10px sans-serif;}
 
 main {background-color: black;
@@ -65,7 +64,8 @@ main {background-color: black;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
-		background-size: cover;}
+		background-size: cover;
+                padding: 50;}
 
 h2 {text-align: center;
     font-size: 20px;}    
