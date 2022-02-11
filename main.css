@@ -5,7 +5,7 @@
 		    
 
 		header{background-color: hsla(360, 50%, 10%, 0.9);
-			background-image: url(automotor-ke/black badge ghost.jpg);
+			background-image: url("black badge ghost.jpg");
 			background-repeat: no-repeat;
 			background-position: center;
 			background-attachment: scroll;
