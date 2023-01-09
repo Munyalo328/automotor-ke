@@ -1,7 +1,7 @@
 ### Hi there 👋
 # This is an automobile site for all the available luxury automotive in the human life.
 <!--
-**automotor-ke/automotor-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**automotor-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
