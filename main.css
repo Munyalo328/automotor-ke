@@ -60,8 +60,8 @@ footer {background: White;
 	margin: 0;
         font: normal normal 10px sans-serif;}
 
-main {background-color: grey;
-		background-image: url("black badge ghost.jpg");
+main {/*background-color: grey;
+		background-image: url("black badge ghost.jpg");*/
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
