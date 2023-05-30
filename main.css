@@ -55,7 +55,7 @@
 
         .menu-bar ul li:hover .sub-menu-1 ul li a:hover {color: #b2ff00;}
 
-footer {background: White;
+footer {background: grey;
 	     padding: 25px;
 	margin: 0;
         font: normal normal 10px sans-serif;}
