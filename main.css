@@ -18,7 +18,8 @@
 		        font: italic normal 20px small-caps;} 
 
 		.menu-bar {text-align: left;
-		           color: black;}      
+		        position: absolute;   
+			color: black;}      
 		.menu-bar ul {display: inline-flex;
 		           list-style: none;
 		           color: black;}
