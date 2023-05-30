@@ -17,7 +17,7 @@
 		.head1 {color: white;
 		        font: italic normal 20px small-caps;} 
 
-		.menu-bar {text-align: left;
+		.menu-bar {text-align: right;
 		        position: absolute;   
 			color: black;}      
 		.menu-bar ul {display: inline-flex;
