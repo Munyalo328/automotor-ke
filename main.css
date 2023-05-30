@@ -4,14 +4,14 @@
 		    font: italic 20px "times new roman";}
 		    
 
-		header{background-color: 000;
+		header{background-color: white;
 			background-image: url("");
 			background-repeat: no-repeat;
 			background-position: center;
 			background-attachment: scroll;
 			background-size: cover;}
 
-		.head{color: hsl(328, 70%, 40%);
+		.head{color: Grey;
 		      font: normal bolder 60px sans-serif !important}
 
 		.head1 {color: white;
