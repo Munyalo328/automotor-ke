@@ -17,18 +17,18 @@
 		.head1 {color: white;
 		        font: italic normal 20px small-caps;} 
 
-		.menu-bar {text-align: center;
-		           color: white;}      
+		.menu-bar {text-align: left;
+		           color: black;}      
 		.menu-bar ul {display: inline-flex;
 		           list-style: none;
-		           color: white;}
+		           color: black;}
 
 		.menu-bar ul li {width: 100px;
 		                 margin: 10px;
 		                 padding: 5px;}
 
 		.menu-bar ul li a {text-decoration: none;
-		                 color: white;}
+		                 color: black;}
 
 		.active, .menu-bar ul li:hover {background: hsla(121, 70%, 30%, 0.9);
 		                                border-radius: 3px;}
